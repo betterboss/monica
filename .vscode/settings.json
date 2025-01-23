@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.automationProfile.linux": {
+
+    },
+    "terminal.integrated.suggest.builtinCompletions": {
+        
+        "pwshCode": true,
+        "pwshGit": true
+    },
+    "python.analysis.aiCodeActions": {}
+}
