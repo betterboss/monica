@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  monica2:
+    image: monica2
+    build:
+      context: .
+      dockerfile: ./Dockerfile
